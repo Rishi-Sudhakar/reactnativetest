@@ -36,13 +36,19 @@ This will automatically start with expo, and you will be provided with options o
 
 You can just use expo go app (android), or camera app in ios.
 
-If you want the program to run locally in the machine (Android/iOS Virtual Machine), you can click a (For android), It will automatically open the Android VM in Android studio, or i for iOS which will open iPhone simulator in Xcode (This, However would require a Macintosh device)
+If you want the program to run locally in the machine (Android/iOS Virtual Machine), you can click "a" (For android), It will automatically open the Android VM in Android studio, or "i" for iOS which will open iPhone simulator in Xcode (This, However would require a Macintosh device)
+
+While running,
+Use credentials,
+Username: admin
+Password: admin@123
 
 For testing, you have to first install test modules
 
 ```sh
 npm install --save-dev jest @testing-library/react-native @testing-library/jest-native
 ```
+
 
 As you can see I have used Jest for testing.
 

@@ -1,4 +1,4 @@
-##Requirements
+## Requirements
 
 1. You need to have Node.js and npm (Node Package Manager) installed on your development machine. You can download them from https://nodejs.org/.
 2. I have used Expo for development, So Expo is Recommended.

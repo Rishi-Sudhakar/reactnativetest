@@ -43,6 +43,8 @@ Use credentials,
 Username: admin
 Password: admin@123
 
+Now, data is fetched from JSONPlaceholder API (Free REST API) and is presented on the screen.
+
 For testing, you have to first install test modules
 
 ```sh
